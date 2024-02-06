@@ -1,5 +1,6 @@
 # Jack Logan
 - jacklogan@mines.edu
+- www.linkedin.com/in/jack-logan-40145523a
 - Colorado School of Mines 
 - Geophysics Department
 - Golden, CO
