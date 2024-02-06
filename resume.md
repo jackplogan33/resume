@@ -5,7 +5,7 @@
 - Geophysics Department
 - Golden, CO
 
-![Me doing something cool](https://ibb.co/DgGPTky)
+![Skiing Image](C:\Users\jackp\OneDrive\Pictures\229pic.jpg)
 
 ## Work Experience
 **BD Performance Racing** *Assistant Coach*
