@@ -4,7 +4,8 @@
 - Colorado School of Mines 
 - Geophysics Department
 - Golden, CO
-![Me doing something cool](https://1drv.ms/i/s!AvrzLE4PKODjvHmfLFcmmB_NTio0?e=dAfPz6)
+
+![Me doing something cool](file://229pic.jpg)
 
 ## Work Experience
 **BD Performance Racing** *Assistant Coach*
